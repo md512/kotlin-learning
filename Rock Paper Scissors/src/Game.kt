@@ -17,14 +17,19 @@ fun getUserChoice(optionsParam: Array<String>): String {
         for(item in optionsParam) print(" $item")
         println(".")
 
-        val userInput = readLine()
+        var userInput = readLine()
 
-        if(userInput != null && userInput in optionsParam) {
-            userChoice = userInput
-            isValidChoice = true
-        } else {
-            println("Такого слова нет в списке")
+
+        if(userInput != null) {
+            userInput = userInput.toLowerCase()
+            if(userInput in optionsParam) {
+                userChoice = userInput
+                isValidChoice = true
+            } else {
+                println("Такого слова нет в списке")
+            }
         }
+
     }
     return userChoice
 }

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e4791c3-0b5b-42c7-bc62-99d24f56aca4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rock Paper Scissors/src/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Rock Paper Scissors/src/Game.kt" afterDir="false" />
     </list>
@@ -74,22 +73,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1606640202552">
+    <state width="1637" height="336" key="GridCell.Tab.0.bottom" timestamp="1606657743275">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1606640202552" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1606640202552">
+    <state width="1637" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
+    <state width="1637" height="336" key="GridCell.Tab.0.center" timestamp="1606657743275">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1606640202552" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1606640202551">
+    <state width="1637" height="336" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
+    <state width="1637" height="336" key="GridCell.Tab.0.left" timestamp="1606657743275">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1606640202551" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1606640202552">
+    <state width="1637" height="336" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
+    <state width="1637" height="336" key="GridCell.Tab.0.right" timestamp="1606657743275">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1606640202552" />
+    <state width="1637" height="336" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1606657743276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743276" />
+    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1606657743275">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
+    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1606657743275">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
+    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1606657743275">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1606657743275" />
     <state x="341" y="150" key="SettingsEditor" timestamp="1606551156613">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -98,5 +113,21 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="461" y="125" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1606487926069" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Rock Paper Scissors/src/Game.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Rock Paper Scissors/src/Game.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
